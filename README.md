@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Davizin16/davizin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Davi! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development Student
+
+I'm currently learning web development and building
+projects to improve my programming skills.
+
+### Technologies I'm learning
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Supabase
+
+### My Projects
+
+- WD Lavagem — Car wash booking website
+- FitZone — Gym website
+
+### Goals
+
+- Improve my JavaScript skills
+- Learn full-stack development
+- Build real-world projects
+- Start my career in tech
