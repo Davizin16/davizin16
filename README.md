@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Davi! 👋
+# Hi, I'm Davi! 
 
 ### Web Development Student
 
