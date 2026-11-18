@@ -1,28 +1,7 @@
+Hi, I'm Davi 👋
+I'm a Software Development student based in Portugal, focused on building modern web applications and developing my skills through real-world projects.
 
-
-# Hi, I'm Davi! 
-
-### Web Development Student
-
-I'm currently learning web development and building
-projects to improve my programming skills.
-
-### Technologies I'm learning
-
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Supabase
-
-### My Projects
-
-- WD Lavagem — Car wash booking website
-- FitZone — Gym website
-
-### Goals
-
-- Improve my JavaScript skills
-- Learn full-stack development
-- Build real-world projects
-- Start my career in tech
+💻 Currently working with JavaScript, HTML, CSS and Supabase
+🚀 Building web applications from concept to deployment
+📚 Expanding my knowledge towards full-stack development
+🎯 Looking for opportunities to grow as a Junior Web Developer
